@@ -20,6 +20,7 @@ The data is saved to it_companies_noida.csv.
 The data is displayed on the web page and available for download.
 
  # Frontend (Streamlit):
+(use this in terminal : streamlit run streamlit_app.py)
 Provides a simple UI with a button to scrape data.
 Displays scraped IT company data (Name, Phone, Address).
 Allows CSV download.
